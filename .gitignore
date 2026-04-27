@@ -6,3 +6,11 @@ data/
 *.tsv
 *.csv
 !hpa_image_urls.csv
+
+# New ignored folders
+SubCellPortable/
+images/
+outputs/
+tmp_downloads/
+test_images/
+split_test_images/
