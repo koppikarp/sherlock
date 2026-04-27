@@ -1,0 +1,8 @@
+metadata.csv
+__pycache__/
+*.pyc
+.DS_Store
+data/
+*.tsv
+*.csv
+!hpa_image_urls.csv
