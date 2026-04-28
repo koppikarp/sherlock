@@ -6,8 +6,9 @@ data/
 *.tsv
 *.csv
 !hpa_image_urls.csv
-
-# New ignored folders
+!pilot_cells_to_download.csv
+!pilot_test_set_summary.csv
+!on_ensembl/pilot_cells_to_download.csv
 SubCellPortable/
 images/
 outputs/
